@@ -1,0 +1,15 @@
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\bin\Debug\net6.0\Visitante.DAL.deps.json
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\bin\Debug\net6.0\Visitante.DAL.dll
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\bin\Debug\net6.0\Visitante.DAL.pdb
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\bin\Debug\net6.0\Visitante.Domain.dll
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\bin\Debug\net6.0\Visitante.Domain.pdb
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\obj\Debug\net6.0\Visitante.DAL.csproj.AssemblyReference.cache
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\obj\Debug\net6.0\Visitante.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\obj\Debug\net6.0\Visitante.DAL.AssemblyInfoInputs.cache
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\obj\Debug\net6.0\Visitante.DAL.AssemblyInfo.cs
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\obj\Debug\net6.0\Visitante.DAL.csproj.CoreCompileInputs.cache
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\obj\Debug\net6.0\Visitante.DAL.csproj.CopyComplete
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\obj\Debug\net6.0\Visitante.DAL.dll
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\obj\Debug\net6.0\refint\Visitante.DAL.dll
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\obj\Debug\net6.0\Visitante.DAL.pdb
+D:\Repos_C#\JoitSolutions_teste\ControleDeAcesso\Visitante.DAL\obj\Debug\net6.0\ref\Visitante.DAL.dll
